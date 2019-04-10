@@ -1,6 +1,6 @@
 # Analyzing autostereoscopic environment configurations for the design of videogames
 
-###Description
+##Description
 
 This project presenters some system configurations that create a autostereoscopic visualization in Unity 
 were evaluated in order to obtain a good accommodation of the user experience with the game. The project 
@@ -16,7 +16,7 @@ enclosure. At the same time, a set of asteroids appear in the videogame, emergin
 inside the tube-shaped enclosure. In the second scenario, the spacecraft flies over the terrain trying to avoid 
 hitting the asteroids.
 
-###Contents of the executable
+##Contents of the executable
 
 The executable file contents seven scenes of which the first is configuration scene and the rest represents a configuration 
 of cameras on a stage. Each scene has a static mode where the activity of the player in the game is passive and 
@@ -37,7 +37,7 @@ The instructions of keyboard for spacecraft movement are:
 - A and D: Left and right.
 - E and Q: Forward and backward.
 
-###Other contents
+##Other contents
 
 In folder code, we have put the code in c# of the project and in folder Shader the interlaced shader code. In folder 
 code, we have put the code in c# of the project and in folder Shader the interlaced shader code. Moreover, we have 
