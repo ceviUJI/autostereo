@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cameras-project_demo", "Cameras-project_demo.csproj", "{641080BC-0613-4EA2-51BE-E651471BB7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cameras-project_demo.Editor", "Cameras-project_demo.Editor.csproj", "{855B8BB3-F78C-83F1-4CE0-A32512E8154C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641080BC-0613-4EA2-51BE-E651471BB7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641080BC-0613-4EA2-51BE-E651471BB7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641080BC-0613-4EA2-51BE-E651471BB7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641080BC-0613-4EA2-51BE-E651471BB7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855B8BB3-F78C-83F1-4CE0-A32512E8154C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855B8BB3-F78C-83F1-4CE0-A32512E8154C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855B8BB3-F78C-83F1-4CE0-A32512E8154C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855B8BB3-F78C-83F1-4CE0-A32512E8154C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
