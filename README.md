@@ -11,7 +11,7 @@ optical axes (DCOA).
 The avatar that represents the player is a spacecraft. In the first scenario, the player moves inside a tube-shaped enclosure. At the same time, a set of asteroids appear in the video game, emerging from the background and moving 
 inside the tube-shaped enclosure. In the second scenario, the spacecraft flies over the ground trying to avoid hitting the asteroids.
 
-## Contents of the projects
+## Contents of the project
 
 The project contains seven scenes of which the first is the configuration scene and the rest represents a camera configurations on a stage. Each scene has a static mode in which the activity of the player in the game is passive, 
 and he/she only observes the game without interacting with it. After this visualization period, the player interacts with the game, moving the spacecraft to avoid the asteroids that are going to crash into it.
