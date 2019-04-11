@@ -2,26 +2,19 @@
 
 ## Description
 
-This project presenters some system configurations that create a autostereoscopic visualization in Unity 
-were evaluated in order to obtain a good accommodation of the user experience with the game. The project 
-was carried out in the Unity version 5.2.5f1 (64-bit), and the generated contents were visualized on an 
-autostereoscopic display with 8-view 46-in xyZ 3D LCD with lenticular lenses.
+This project presents some camera configurations to create an autostereoscopic visualization in Unity, and obtain a good accommodation of the user experience with the game. The project 
+was carried out in version 5.2.5f1 (64-bit) of Unity, and the generated contents were displayed on an autostereoscopic screen with 8-view 46-in xyZ 3D LCD with lenticular lenses.
 
-The type of videogame chosen was an Autostereoscopic Shooter game over two scenarios where three configurations 
-of cameras were tested:  Parallel Optical Axes (POA), Static Converging Optical Axes (SCOA) and Dynamic Converging 
+The type of videogame chosen was an Autostereoscopic Shooter game over two scenarios in which three camera configurations were tested:  Parallel Optical Axes (POA), Static Converging Optical Axes (SCOA) and Dynamic Converging 
 optical axes (DCOA). 
 
-The avatar that represents the player is a spacecraft. In the first scenario, the player moves inside a tube-shaped 
-enclosure. At the same time, a set of asteroids appear in the videogame, emerging from the background and moving 
-inside the tube-shaped enclosure. In the second scenario, the spacecraft flies over the terrain trying to avoid 
-hitting the asteroids.
+The avatar that represents the player is a spacecraft. In the first scenario, the player moves inside a tube-shaped enclosure. At the same time, a set of asteroids appear in the video game, emerging from the background and moving 
+inside the tube-shaped enclosure. In the second scenario, the spacecraft flies over the ground trying to avoid hitting the asteroids.
 
-## Contents of the executable
+## Contents of the projects
 
-The executable file contents seven scenes of which the first is configuration scene and the rest represents a configuration 
-of cameras on a stage. Each scene has a static mode where the activity of the player in the game is passive and 
-he/she only observes the game without interacting with it. After this visualization period, the player interacts 
-with the game, moving the spacecraft to avoid the asteroids that are going to crash into it.
+The project contains seven scenes of which the first is the configuration scene and the rest represents a camera configurations on a stage. Each scene has a static mode in which the activity of the player in the game is passive, 
+and he/she only observes the game without interacting with it. After this visualization period, the player interacts with the game, moving the spacecraft to avoid the asteroids that are going to crash into it.
 
 The instructions of keyboard for each scene are:
 - F1: Scene of configuration to measure initial parameters.
@@ -39,11 +32,7 @@ The instructions of keyboard for spacecraft movement are:
 
 ## Other contents
 
-In folder code, we have put the code in c# of the project and in folder Shader the interlaced shader code. In folder 
-code, we have put the code in c# of the project and in folder Shader the interlaced shader code. Moreover, we have 
-added the opinions of the users when they proved the game in the different camera configurations. The users score 
-for the different camera configuration appears in the excel file "Form about autostereoscopic environment (answers).xlsx", 
-answering the following questions:
+In the two folders Scripts and Autostereoscopy, we have put the code in c# of the project, and in folder Shader the interlaced shader code "InterleaveImage.shader" . Moreover, we have added the opinions of the users when they proved the game in the different camera configurations. The users score for the different camera configuration appears in the excel file "Form about autostereoscopic environment (answers).xlsx", answering the following questions:
 
 - Playability
 	- P1. Things seem to be unpredictable
